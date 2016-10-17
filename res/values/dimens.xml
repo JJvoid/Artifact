@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+       <dimen name="EditText_TextSize">14dp</dimen>
+    <dimen name="TextView_TextSize_GradeZero">18dp</dimen>
+    <dimen name="TextView_TextSize_GradeOne">16dp</dimen>
+    <dimen name="TextView_TextSize_GradeTwo">14dp</dimen>
+    <dimen name="TextView_TextSize_GradeThree">12dp</dimen>
+    <dimen name="TextView_TextSize_GradeFour">10dp</dimen>
+    
+    <!-- 上拉刷新,下拉加载 -->
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <!-- 上拉刷新,下拉加载 -->
+</resources>

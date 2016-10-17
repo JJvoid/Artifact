@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="Color_ActivityBackground">#e4e6e5</color>
+    <color name="Color_Blue_Deep">#3571d3</color>
+    <color name="Color_White">#FFFFFF</color>
+    <color name="Color_Gray_Shallow">#bab9b9</color>
+    <color name="Color_Gray_Deep">#616060</color>
+    <color name="Color_Black">#000000</color>
+    <color name="Color_Blue_Shallow">#0098ff</color>
+
+</resources>
